@@ -1,0 +1,21 @@
+#btn1{
+	padding: 10px;
+	border-radius: 30px;
+	background-color: lime;
+}
+
+#btnr{
+	padding: 10px;
+	border-radius: 30px;
+	background-color: lime;
+}
+
+img{
+	width: 900px;
+	height: 400px;
+}
+
+
+.wrap{
+	margin-left: 100px;
+}
